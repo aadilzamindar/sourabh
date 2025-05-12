@@ -30,6 +30,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <h1>Hello Sourabh</h1>
+      <h3>How are you</h3>
     </>
   )
 }
